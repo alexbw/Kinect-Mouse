@@ -1,0 +1,5 @@
+C:\Users\Behavior Room\Desktop\Kinect Mouse\DepthSense\FunctionPointerProxy\FunctionPointerProxy\bin\Release\FunctionPointerProxy.dll
+C:\Users\Behavior Room\Desktop\Kinect Mouse\DepthSense\FunctionPointerProxy\FunctionPointerProxy\bin\Release\FunctionPointerProxy.pdb
+C:\Users\Behavior Room\Desktop\Kinect Mouse\DepthSense\FunctionPointerProxy\FunctionPointerProxy\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Behavior Room\Desktop\Kinect Mouse\DepthSense\FunctionPointerProxy\FunctionPointerProxy\obj\Release\FunctionPointerProxy.dll
+C:\Users\Behavior Room\Desktop\Kinect Mouse\DepthSense\FunctionPointerProxy\FunctionPointerProxy\obj\Release\FunctionPointerProxy.pdb
